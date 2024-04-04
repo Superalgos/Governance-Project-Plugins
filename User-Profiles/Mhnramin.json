@@ -2148,13 +2148,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xa3262dcef9bd41807b4d9958ccc015c0e460d883758ea15086d1d4c76ae9dbd9\",\n        \"s\": \"0x67d1570d26daeb2ac9c6e40cf1e80f3925a749636b3f276fa9251c70e9d9a1ad\",\n        \"signature\": \"0xa3262dcef9bd41807b4d9958ccc015c0e460d883758ea15086d1d4c76ae9dbd967d1570d26daeb2ac9c6e40cf1e80f3925a749636b3f276fa9251c70e9d9a1ad1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x26ceb410643e539d13fa7a06dd40346f95173064c2c1111e247d43056e3c369b\",\n        \"s\": \"0x6b799a040fd790ebd9a539ee29c119224cb7617a5ad11a7f521370f1e05608ca\",\n        \"signature\": \"0x26ceb410643e539d13fa7a06dd40346f95173064c2c1111e247d43056e3c369b6b799a040fd790ebd9a539ee29c119224cb7617a5ad11a7f521370f1e05608ca1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d2bcf6b0-ad22-4177-946f-17699f34ea46",
+                        "id": "32d6f2fe-b966-42a7-8473-92adb2a6c547",
                         "savedPayload": {
                             "position": {
-                                "x": 29029.17960675007,
-                                "y": 24305.34230275097
+                                "x": 29212.88470506255,
+                                "y": 24109.006727063228
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
@@ -2263,13 +2263,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x13c805cadc3ccc6e6f57a55e2261ca0f026ef7fbd94269840c2c624ae1c0ddf5\",\n        \"s\": \"0x31498890c06c6b3f82371dde14ed74906ef0e682640b0d375190672a06801f72\",\n        \"signature\": \"0x13c805cadc3ccc6e6f57a55e2261ca0f026ef7fbd94269840c2c624ae1c0ddf531498890c06c6b3f82371dde14ed74906ef0e682640b0d375190672a06801f721b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x2cd8351f30d9980101cfb763835e8ce15b5c7ee1917de5dcc67adca31a8d65dd\",\n        \"s\": \"0x4f010111d3480fbeff495ba531602ad0972014577525537136c856a1a9306ae6\",\n        \"signature\": \"0x2cd8351f30d9980101cfb763835e8ce15b5c7ee1917de5dcc67adca31a8d65dd4f010111d3480fbeff495ba531602ad0972014577525537136c856a1a9306ae61c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "4a3a3468-40ae-413e-bb69-cd436fe97b54",
+                        "id": "71ca459f-bafc-49a2-95c4-1ee5b68a7fcc",
                         "savedPayload": {
                             "position": {
-                                "x": 28997.82106776977,
-                                "y": 23193.01426585951
+                                "x": 29295.88470506255,
+                                "y": 23046.993272936772
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
@@ -2296,8 +2296,8 @@
                             "id": "5b3b77b4-4ec1-496a-9239-88aa11cac01c",
                             "savedPayload": {
                                 "position": {
-                                    "x": 29303.24324404285,
-                                    "y": 22772.63670432629
+                                    "x": 29029.17960675007,
+                                    "y": 22894.65769724903
                                 },
                                 "targetPosition": {
                                     "x": 29271.88470506255,
