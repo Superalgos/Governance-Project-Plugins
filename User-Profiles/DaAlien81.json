@@ -815,8 +815,36 @@
                 {
                     "type": "Task Server App",
                     "name": "New Task Server App",
-                    "config": "{ \n\"codeName\": \"\"\n}",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-1\"\n}",
                     "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x411cc7d97ca42ccef76f5f0ba2525aa3de1813af4a981851124ac151ef5b5b4d\",\n        \"s\": \"0x415cf0de9146531617eb2f168c9c4fdeedb609c8d4b95996ef10a85ae934ce0a\",\n        \"signature\": \"0x411cc7d97ca42ccef76f5f0ba2525aa3de1813af4a981851124ac151ef5b5b4d415cf0de9146531617eb2f168c9c4fdeedb609c8d4b95996ef10a85ae934ce0a1b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "88fab834-3d61-475f-be82-662cfde933ff",
+                        "savedPayload": {
+                            "position": {
+                                "x": 11530,
+                                "y": 38010
+                            },
+                            "targetPosition": {
+                                "x": 11600,
+                                "y": 38000
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
                     "id": "28b9bb15-1137-41bb-a243-7d84d156a7b5",
                     "savedPayload": {
                         "position": {
@@ -902,8 +930,36 @@
                 {
                     "type": "Social Trading Bot",
                     "name": "New Social Trading Bot",
-                    "config": "{}",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"handle\": \"DaAlien81-Social-Trading-Bot-1\"\n}",
                     "project": "Social-Trading",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc0b4685f4bc99986dc0223074011f6b0dcc26a2eede9c992827d73360b7bb47a\",\n        \"s\": \"0x76c45e924f490ae5895cdf4c8985bf1cf593ba6aaf63eb37aa3fa6af3d1ba254\",\n        \"signature\": \"0xc0b4685f4bc99986dc0223074011f6b0dcc26a2eede9c992827d73360b7bb47a76c45e924f490ae5895cdf4c8985bf1cf593ba6aaf63eb37aa3fa6af3d1ba2541c\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "d710e084-e35b-4d9c-8776-7c276bffcc0e",
+                        "savedPayload": {
+                            "position": {
+                                "x": 12569,
+                                "y": 37175
+                            },
+                            "targetPosition": {
+                                "x": 12500,
+                                "y": 37100
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
                     "followedBotReference": [
                         {
                             "type": "Followed Bot Reference",
@@ -1029,17 +1085,17 @@
     "id": "2f502658-6b5a-42dc-aefa-27ce8011e5d5",
     "savedPayload": {
         "position": {
-            "x": 12500,
-            "y": 38000
+            "x": 30000,
+            "y": 23600
         },
         "targetPosition": {
-            "x": 12500,
-            "y": 38000
+            "x": 30000,
+            "y": 23600
         },
         "floatingObject": {
             "isPinned": false,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 1,
             "distanceToParent": 3,
             "arrangementStyle": 0
