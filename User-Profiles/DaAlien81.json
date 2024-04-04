@@ -160,7 +160,7 @@
                 "userReferrers": [
                     {
                         "type": "User Referrer",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "cceceb4c-bf03-43ca-917d-c7a098229399",
@@ -199,7 +199,7 @@
                     },
                     {
                         "type": "User Referrer",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "69d2b7a7-d932-46d1-8cf3-57b1a250f43a",
@@ -322,7 +322,7 @@
                 "userSupporters": [
                     {
                         "type": "User Supporter",
-                        "name": "Loui-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "fa5f8cd3-3c26-4093-b5e7-ab93aa31db27",
@@ -445,7 +445,7 @@
                 "userMentors": [
                     {
                         "type": "User Mentor",
-                        "name": "drcryptokiller",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "b23aa638-7e8c-45be-8e39-b1e2d29b0ec0",
@@ -781,8 +781,233 @@
         "id": "8aafb076-9274-4499-a133-1e82b2d7cdfc",
         "savedPayload": {
             "position": {
+                "x": 12500,
+                "y": 38300
+            },
+            "targetPosition": {
+                "x": 12500,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "userApps": {
+        "type": "User Apps",
+        "name": "New User Apps",
+        "config": "{}",
+        "project": "User-Apps",
+        "serverApps": {
+            "type": "Server Apps",
+            "name": "New Server Apps",
+            "config": "{}",
+            "project": "User-Apps",
+            "taskServerApps": [
+                {
+                    "type": "Task Server App",
+                    "name": "New Task Server App",
+                    "config": "{ \n\"codeName\": \"\"\n}",
+                    "project": "User-Apps",
+                    "id": "28b9bb15-1137-41bb-a243-7d84d156a7b5",
+                    "savedPayload": {
+                        "position": {
+                            "x": 11600,
+                            "y": 38000
+                        },
+                        "targetPosition": {
+                            "x": 11900,
+                            "y": 38000
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "socialTradingServerApps": [],
+            "id": "05cc2935-c0c4-4657-a990-d1cb987f759e",
+            "savedPayload": {
+                "position": {
+                    "x": 11900,
+                    "y": 38000
+                },
+                "targetPosition": {
+                    "x": 12200,
+                    "y": 38000
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "7f9f9e10-482c-4308-bd58-f4bcf0b5769a",
+        "savedPayload": {
+            "position": {
                 "x": 12200,
                 "y": 38000
+            },
+            "targetPosition": {
+                "x": 12500,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "userBots": {
+        "type": "User Bots",
+        "name": "New User Bots",
+        "config": "{\r\n    \"socialHandle\": \"\",\r\n    \"bio\": \"\",\r\n    \"amount\": 50000\r\n}",
+        "project": "Governance",
+        "socialTradingBots": {
+            "type": "Social Trading Bots",
+            "name": "New Social Trading Bots",
+            "config": "{}",
+            "project": "Social-Trading",
+            "socialTradingBots": [
+                {
+                    "type": "Social Trading Bot",
+                    "name": "New Social Trading Bot",
+                    "config": "{}",
+                    "project": "Social-Trading",
+                    "followedBotReference": [
+                        {
+                            "type": "Followed Bot Reference",
+                            "name": "Base Soaring - Social Trading Bot",
+                            "project": "Social-Trading",
+                            "id": "c150e4cf-25ab-4696-bbbe-d678c0a9faa4",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 12500,
+                                    "y": 36800
+                                },
+                                "targetPosition": {
+                                    "x": 12500,
+                                    "y": 37100
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 1,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Social Trading Bot",
+                                    "name": "Base Soaring - Social Trading Bot",
+                                    "id": "6592544c-598b-4a4c-8e67-10a077092a6d"
+                                },
+                                "referenceParentCombinedNodePath": [
+                                    [
+                                        "BlaaSwe",
+                                        "User Profile"
+                                    ],
+                                    [
+                                        "New User Bots",
+                                        "User Bots"
+                                    ],
+                                    [
+                                        "New Social Trading Bots",
+                                        "Social Trading Bots"
+                                    ],
+                                    [
+                                        "Base Soaring - Social Trading Bot",
+                                        "Social Trading Bot"
+                                    ]
+                                ]
+                            }
+                        }
+                    ],
+                    "id": "4807ebfc-bf60-4942-b3ec-db21bdecfb83",
+                    "savedPayload": {
+                        "position": {
+                            "x": 12500,
+                            "y": 37100
+                        },
+                        "targetPosition": {
+                            "x": 12500,
+                            "y": 37400
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "4057d849-42e0-44d0-8c06-7886b0c41da0",
+            "savedPayload": {
+                "position": {
+                    "x": 12500,
+                    "y": 37400
+                },
+                "targetPosition": {
+                    "x": 12500,
+                    "y": 37700
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "6b17d81a-3f89-43b4-aecc-d221164a509e",
+        "savedPayload": {
+            "position": {
+                "x": 12500,
+                "y": 37700
             },
             "targetPosition": {
                 "x": 12500,
