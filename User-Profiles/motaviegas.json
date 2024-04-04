@@ -529,56 +529,8 @@
                         "config": "{}",
                         "project": "Governance",
                         "positionClaimsFolders": [],
-                        "positionContributionClaims": [
-                            {
-                                "type": "Position Contribution Claim",
-                                "name": "Translations Team February 2024",
-                                "config": "{}",
-                                "project": "Governance",
-                                "id": "795b85f9-cc2e-448f-9da9-367e25641156",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 31816.950478278195,
-                                        "y": 38150
-                                    },
-                                    "targetPosition": {
-                                        "x": 31516.950478278195,
-                                        "y": 38150
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
-                                        "angleToParent": 2,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    },
-                                    "referenceParent": {
-                                        "type": "Position",
-                                        "name": "Translations Team",
-                                        "id": "1e304f0b-7606-4660-a415-8950523c16ed"
-                                    },
-                                    "referenceParentCombinedNodePath": [
-                                        [
-                                            "Teams of Contributors",
-                                            "Positions"
-                                        ],
-                                        [
-                                            "February 2024",
-                                            "Position Class"
-                                        ],
-                                        [
-                                            "Translations Team",
-                                            "Position"
-                                        ]
-                                    ]
-                                }
-                            }
-                        ],
-                        "id": "3a942d60-2a2b-4741-996d-77f967a8c230",
+                        "positionContributionClaims": [],
+                        "id": "8d9d8806-6ae2-448e-8261-0c0d5fa26c5a",
                         "savedPayload": {
                             "position": {
                                 "x": 31516.950478278195,
@@ -598,22 +550,7 @@
                             },
                             "uiObject": {
                                 "isRunning": false
-                            },
-                            "referenceParent": {
-                                "type": "Position Class",
-                                "name": "February 2024",
-                                "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
-                            },
-                            "referenceParentCombinedNodePath": [
-                                [
-                                    "Teams of Contributors",
-                                    "Positions"
-                                ],
-                                [
-                                    "February 2024",
-                                    "Position Class"
-                                ]
-                            ]
+                            }
                         }
                     }
                 ],
