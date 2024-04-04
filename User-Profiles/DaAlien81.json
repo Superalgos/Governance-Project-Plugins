@@ -603,17 +603,232 @@
                         "claimVotesSwitch": [
                             {
                                 "type": "Claim Votes Switch",
-                                "name": "New Claim Votes Switch",
+                                "name": "Foundations",
                                 "config": "{}",
                                 "project": "Governance",
-                                "claimVotesSwitch": [],
-                                "positionClaimVotes": [
+                                "claimVotesSwitch": [
                                     {
-                                        "type": "Position Claim Vote",
-                                        "name": "",
+                                        "type": "Claim Votes Switch",
+                                        "name": "Foundations-Project-Images",
                                         "config": "{}",
                                         "project": "Governance",
-                                        "id": "b3ab8149-80d7-460c-a5b7-e50b5a0877aa",
+                                        "claimVotesSwitch": [
+                                            {
+                                                "type": "Claim Votes Switch",
+                                                "name": "Images",
+                                                "config": "{}",
+                                                "project": "Governance",
+                                                "claimVotesSwitch": [
+                                                    {
+                                                        "type": "Claim Votes Switch",
+                                                        "name": "Icons",
+                                                        "config": "{}",
+                                                        "project": "Governance",
+                                                        "claimVotesSwitch": [],
+                                                        "positionClaimVotes": [],
+                                                        "assetClaimVotes": [
+                                                            {
+                                                                "type": "Asset Claim Vote",
+                                                                "name": "teehanming ",
+                                                                "config": "{}",
+                                                                "project": "Governance",
+                                                                "id": "24a5e6d7-16d7-489d-9b3d-246baaab1924",
+                                                                "savedPayload": {
+                                                                    "position": {
+                                                                        "x": 14184.579053481553,
+                                                                        "y": 36888.30363943106
+                                                                    },
+                                                                    "targetPosition": {
+                                                                        "x": 14262.224767012309,
+                                                                        "y": 37178.08138731778
+                                                                    },
+                                                                    "floatingObject": {
+                                                                        "isPinned": false,
+                                                                        "isFrozen": false,
+                                                                        "isCollapsed": false,
+                                                                        "angleToParent": 2,
+                                                                        "distanceToParent": 3,
+                                                                        "arrangementStyle": 0
+                                                                    },
+                                                                    "uiObject": {
+                                                                        "isRunning": false
+                                                                    },
+                                                                    "referenceParent": {
+                                                                        "type": "Asset Contribution Claim",
+                                                                        "name": "",
+                                                                        "id": "ec08ceac-b060-4a37-b57a-67e2024316e4"
+                                                                    },
+                                                                    "referenceParentCombinedNodePath": [
+                                                                        [
+                                                                            "teehanming",
+                                                                            "User Profile"
+                                                                        ],
+                                                                        [
+                                                                            "New Token Power Switch",
+                                                                            "Token Power Switch"
+                                                                        ],
+                                                                        [
+                                                                            "New Votes And Claims Programs",
+                                                                            "Votes And Claims Programs"
+                                                                        ],
+                                                                        [
+                                                                            "New Claims Program",
+                                                                            "Claims Program"
+                                                                        ],
+                                                                        [
+                                                                            "Foundations",
+                                                                            "Asset Claims Folder"
+                                                                        ],
+                                                                        [
+                                                                            "Foundations-Project-Images",
+                                                                            "Asset Claims Folder"
+                                                                        ],
+                                                                        [
+                                                                            "Images",
+                                                                            "Asset Claims Folder"
+                                                                        ],
+                                                                        [
+                                                                            "Icons",
+                                                                            "Asset Claims Folder"
+                                                                        ],
+                                                                        [
+                                                                            "",
+                                                                            "Asset Contribution Claim"
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ],
+                                                        "featureClaimVotes": [],
+                                                        "id": "1ee8dc53-b62f-4875-ab87-ce1cd3f7a407",
+                                                        "savedPayload": {
+                                                            "position": {
+                                                                "x": 14262.224767012309,
+                                                                "y": 37178.08138731778
+                                                            },
+                                                            "targetPosition": {
+                                                                "x": 14339.870480543064,
+                                                                "y": 37467.859135204504
+                                                            },
+                                                            "floatingObject": {
+                                                                "isPinned": false,
+                                                                "isFrozen": false,
+                                                                "isCollapsed": false,
+                                                                "angleToParent": 2,
+                                                                "distanceToParent": 3,
+                                                                "arrangementStyle": 0
+                                                            },
+                                                            "uiObject": {
+                                                                "isRunning": false
+                                                            },
+                                                            "referenceParent": {
+                                                                "type": "Asset Claims Folder",
+                                                                "name": "Icons",
+                                                                "id": "2a54225d-aeeb-453e-bd48-9366140d6dcc"
+                                                            },
+                                                            "referenceParentCombinedNodePath": [
+                                                                [
+                                                                    "teehanming",
+                                                                    "User Profile"
+                                                                ],
+                                                                [
+                                                                    "New Token Power Switch",
+                                                                    "Token Power Switch"
+                                                                ],
+                                                                [
+                                                                    "New Votes And Claims Programs",
+                                                                    "Votes And Claims Programs"
+                                                                ],
+                                                                [
+                                                                    "New Claims Program",
+                                                                    "Claims Program"
+                                                                ],
+                                                                [
+                                                                    "Foundations",
+                                                                    "Asset Claims Folder"
+                                                                ],
+                                                                [
+                                                                    "Foundations-Project-Images",
+                                                                    "Asset Claims Folder"
+                                                                ],
+                                                                [
+                                                                    "Images",
+                                                                    "Asset Claims Folder"
+                                                                ],
+                                                                [
+                                                                    "Icons",
+                                                                    "Asset Claims Folder"
+                                                                ]
+                                                            ]
+                                                        }
+                                                    }
+                                                ],
+                                                "positionClaimVotes": [],
+                                                "assetClaimVotes": [],
+                                                "featureClaimVotes": [],
+                                                "id": "323567e5-f454-474d-95f6-a2416199f321",
+                                                "savedPayload": {
+                                                    "position": {
+                                                        "x": 14339.870480543064,
+                                                        "y": 37467.859135204504
+                                                    },
+                                                    "targetPosition": {
+                                                        "x": 14417.51619407382,
+                                                        "y": 37757.636883091225
+                                                    },
+                                                    "floatingObject": {
+                                                        "isPinned": false,
+                                                        "isFrozen": false,
+                                                        "isCollapsed": false,
+                                                        "angleToParent": 2,
+                                                        "distanceToParent": 3,
+                                                        "arrangementStyle": 0
+                                                    },
+                                                    "uiObject": {
+                                                        "isRunning": false
+                                                    },
+                                                    "referenceParent": {
+                                                        "type": "Asset Claims Folder",
+                                                        "name": "Images",
+                                                        "id": "f08f2548-8892-48a8-a0d5-6a7be17e1987"
+                                                    },
+                                                    "referenceParentCombinedNodePath": [
+                                                        [
+                                                            "teehanming",
+                                                            "User Profile"
+                                                        ],
+                                                        [
+                                                            "New Token Power Switch",
+                                                            "Token Power Switch"
+                                                        ],
+                                                        [
+                                                            "New Votes And Claims Programs",
+                                                            "Votes And Claims Programs"
+                                                        ],
+                                                        [
+                                                            "New Claims Program",
+                                                            "Claims Program"
+                                                        ],
+                                                        [
+                                                            "Foundations",
+                                                            "Asset Claims Folder"
+                                                        ],
+                                                        [
+                                                            "Foundations-Project-Images",
+                                                            "Asset Claims Folder"
+                                                        ],
+                                                        [
+                                                            "Images",
+                                                            "Asset Claims Folder"
+                                                        ]
+                                                    ]
+                                                }
+                                            }
+                                        ],
+                                        "positionClaimVotes": [],
+                                        "assetClaimVotes": [],
+                                        "featureClaimVotes": [],
+                                        "id": "f32ea2c3-0cff-46e0-b4fd-d509db8d2b05",
                                         "savedPayload": {
                                             "position": {
                                                 "x": 14417.51619407382,
@@ -633,10 +848,42 @@
                                             },
                                             "uiObject": {
                                                 "isRunning": false
-                                            }
+                                            },
+                                            "referenceParent": {
+                                                "type": "Asset Claims Folder",
+                                                "name": "Foundations-Project-Images",
+                                                "id": "0d6d6e09-67b8-4022-b1cf-5f424e064e32"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "teehanming",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "Foundations",
+                                                    "Asset Claims Folder"
+                                                ],
+                                                [
+                                                    "Foundations-Project-Images",
+                                                    "Asset Claims Folder"
+                                                ]
+                                            ]
                                         }
                                     }
                                 ],
+                                "positionClaimVotes": [],
                                 "assetClaimVotes": [],
                                 "featureClaimVotes": [],
                                 "id": "d21f3229-0f97-4166-99cd-e020f3cb3cc4",
