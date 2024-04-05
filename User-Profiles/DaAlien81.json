@@ -1608,7 +1608,7 @@
         "liquidityPrograms": {
             "type": "Liquidity Programs",
             "name": "New Liquidity Programs",
-            "config": "{\r\n  \"percentage\": 50,\r\n  \"Asset\": \"SA\"\r\n}",
+            "config": "{\r\n}",
             "project": "Governance",
             "liquidityProgram": [
                 {
@@ -1669,7 +1669,7 @@
                 {
                     "type": "Liquidity Program",
                     "name": "New Liquidity Program",
-                    "config": "{\n    \"asset\": \"SA\",\n    \"exchange\": \"PANCAKE\"\n}",
+                    "config": "{\n    \"asset\": \"BNB\"\n}",
                     "project": "Governance",
                     "tokensAwarded": {
                         "type": "Tokens Awarded",
