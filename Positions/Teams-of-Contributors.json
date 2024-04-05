@@ -6,52 +6,22 @@
     "positionClasss": [
         {
             "type": "Position Class",
-            "name": "February 2024",
+            "name": "March 2024",
             "config": "{}",
             "project": "Governance",
             "positions": [
                 {
                     "type": "Position",
-                    "name": "Alex White",
+                    "name": "Translations Team",
                     "config": "{}",
                     "project": "Governance",
                     "positions": [],
                     "positionClasss": [],
-                    "id": "3068b284-a783-4b43-8035-81a0c6d61db3",
+                    "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d",
                     "savedPayload": {
                         "position": {
-                            "x": 28266.669804536417,
-                            "y": 45608.28517808598
-                        },
-                        "targetPosition": {
-                            "x": 27720.58333333333,
-                            "y": 45211.53013278856
-                        },
-                        "floatingObject": {
-                            "isPinned": false,
-                            "isFrozen": false,
-                            "isCollapsed": false,
-                            "angleToParent": 2,
-                            "distanceToParent": 4,
-                            "arrangementStyle": 0
-                        },
-                        "uiObject": {
-                            "isRunning": false
-                        }
-                    }
-                },
-                {
-                    "type": "Position",
-                    "name": "VEX",
-                    "config": "{}",
-                    "project": "Governance",
-                    "positions": [],
-                    "positionClasss": [],
-                    "id": "8bd91c40-3831-4142-baf8-73436051f757",
-                    "savedPayload": {
-                        "position": {
-                            "x": 27929.169804536417,
-                            "y": 45853.49328128779
+                            "x": 28197.880410634247,
+                            "y": 45688.82721008948
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
@@ -77,11 +47,11 @@
                     "project": "Governance",
                     "positions": [],
                     "positionClasss": [],
-                    "id": "59df6132-14e4-4576-906c-6e5a5cf4b31b",
+                    "id": "db9577ca-e80d-4170-b085-7c338dc5d5b3",
                     "savedPayload": {
                         "position": {
-                            "x": 27511.99686213024,
-                            "y": 45853.49328128779
+                            "x": 27720.58333333333,
+                            "y": 45886.53013278856
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
@@ -102,16 +72,16 @@
                 },
                 {
                     "type": "Position",
-                    "name": "Translations Team",
+                    "name": "VEX Team",
                     "config": "{}",
                     "project": "Governance",
                     "positions": [],
                     "positionClasss": [],
-                    "id": "1e304f0b-7606-4660-a415-8950523c16ed",
+                    "id": "71221e95-abf2-4a10-9b21-505eaeb22abd",
                     "savedPayload": {
                         "position": {
-                            "x": 27174.49686213024,
-                            "y": 45608.28517808598
+                            "x": 27243.28625603241,
+                            "y": 45688.82721008948
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
@@ -170,7 +140,7 @@
         "floatingObject": {
             "isPinned": false,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 1,
             "distanceToParent": 3,
             "arrangementStyle": 0
