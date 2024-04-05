@@ -1614,7 +1614,7 @@
                 {
                     "type": "Liquidity Program",
                     "name": "New Liquidity Program",
-                    "config": "{\n\"asset\": \"BTCB\",\n\"exchange\": \"PANCAKE\"\n}",
+                    "config": "{\n    \"asset\": \"SA / BNB\",\n    \"exchange\": \"PANCAKE\"\n}",
                     "project": "Governance",
                     "tokensAwarded": {
                         "type": "Tokens Awarded",
