@@ -1223,14 +1223,14 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "",
+                                "name": "Translations Team March 2024",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "67600c0d-fc4a-4dca-82a5-6b80ad52b436",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 14563.057724886567,
-                                        "y": 38553.81194037094
+                                        "x": 14737.628589044936,
+                                        "y": 38762.913991949485
                                     },
                                     "targetPosition": {
                                         "x": 14445.15021539039,
@@ -1250,7 +1250,7 @@
                                     "referenceParent": {
                                         "type": "Position",
                                         "name": "Translations Team",
-                                        "id": "1e304f0b-7606-4660-a415-8950523c16ed"
+                                        "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
@@ -1258,152 +1258,11 @@
                                             "Positions"
                                         ],
                                         [
-                                            "February 2024",
+                                            "March 2024",
                                             "Position Class"
                                         ],
                                         [
                                             "Translations Team",
-                                            "Position"
-                                        ]
-                                    ]
-                                }
-                            },
-                            {
-                                "type": "Position Contribution Claim",
-                                "name": "",
-                                "config": "{}",
-                                "project": "Governance",
-                                "id": "716d2aea-4360-4a58-8cb3-55e780907376",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 14702.68485347095,
-                                        "y": 38675.8004889146
-                                    },
-                                    "targetPosition": {
-                                        "x": 14445.15021539039,
-                                        "y": 38829.670272136376
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
-                                        "angleToParent": 2,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    },
-                                    "referenceParent": {
-                                        "type": "Position",
-                                        "name": "Alex White",
-                                        "id": "3068b284-a783-4b43-8035-81a0c6d61db3"
-                                    },
-                                    "referenceParentCombinedNodePath": [
-                                        [
-                                            "Teams of Contributors",
-                                            "Positions"
-                                        ],
-                                        [
-                                            "February 2024",
-                                            "Position Class"
-                                        ],
-                                        [
-                                            "Alex White",
-                                            "Position"
-                                        ]
-                                    ]
-                                }
-                            },
-                            {
-                                "type": "Position Contribution Claim",
-                                "name": "",
-                                "config": "{}",
-                                "project": "Governance",
-                                "id": "899ac570-3c6d-455e-8e1b-8405bbb179b1",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 14743.942503588962,
-                                        "y": 38856.562064807404
-                                    },
-                                    "targetPosition": {
-                                        "x": 14445.15021539039,
-                                        "y": 38829.670272136376
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
-                                        "angleToParent": 2,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    },
-                                    "referenceParent": {
-                                        "type": "Position",
-                                        "name": "VEX",
-                                        "id": "8bd91c40-3831-4142-baf8-73436051f757"
-                                    },
-                                    "referenceParentCombinedNodePath": [
-                                        [
-                                            "Teams of Contributors",
-                                            "Positions"
-                                        ],
-                                        [
-                                            "February 2024",
-                                            "Position Class"
-                                        ],
-                                        [
-                                            "VEX",
-                                            "Position"
-                                        ]
-                                    ]
-                                }
-                            },
-                            {
-                                "type": "Position Contribution Claim",
-                                "name": "",
-                                "config": "{}",
-                                "project": "Governance",
-                                "id": "85daac5a-0b6d-4b16-a44e-2be486ee8f44",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 14671.071655191472,
-                                        "y": 39027.05188991829
-                                    },
-                                    "targetPosition": {
-                                        "x": 14445.15021539039,
-                                        "y": 38829.670272136376
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
-                                        "angleToParent": 2,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    },
-                                    "referenceParent": {
-                                        "type": "Position",
-                                        "name": "Turkish Team",
-                                        "id": "59df6132-14e4-4576-906c-6e5a5cf4b31b"
-                                    },
-                                    "referenceParentCombinedNodePath": [
-                                        [
-                                            "Teams of Contributors",
-                                            "Positions"
-                                        ],
-                                        [
-                                            "February 2024",
-                                            "Position Class"
-                                        ],
-                                        [
-                                            "Turkish Team",
                                             "Position"
                                         ]
                                     ]
