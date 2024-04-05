@@ -2761,7 +2761,7 @@
             {
                 "type": "P2P Network Node",
                 "name": "Germino Bronze BicMC P2P Network Node",
-                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"109.199.121.139\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"109.199.121.139\",\n    \"clientMinimunBalance\": 50000,\n    \"peerMinimunBalance\": 50000,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
                 "project": "Network",
                 "signingAccount": {
                     "type": "Signing Account",
@@ -3062,7 +3062,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 4,
                 "arrangementStyle": 0
@@ -3171,7 +3171,7 @@
         "floatingObject": {
             "isPinned": true,
             "isFrozen": false,
-            "isCollapsed": true,
+            "isCollapsed": false,
             "angleToParent": 1,
             "distanceToParent": 2,
             "arrangementStyle": 0
