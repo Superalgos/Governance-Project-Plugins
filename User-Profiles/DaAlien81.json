@@ -994,7 +994,7 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "Teams of Contributors February 2024",
+                                        "name": "Teams of Contributors March 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "27246b0c-fe80-42cb-a66c-10406c6c3001",
@@ -1020,7 +1020,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Class",
-                                                "name": "February 2024",
+                                                "name": "March 2024",
                                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -1029,7 +1029,7 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "February 2024",
+                                                    "March 2024",
                                                     "Position Class"
                                                 ]
                                             ]
@@ -1223,7 +1223,7 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Translations Team February 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "67600c0d-fc4a-4dca-82a5-6b80ad52b436",
@@ -1270,7 +1270,7 @@
                             },
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Alex White February 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "716d2aea-4360-4a58-8cb3-55e780907376",
@@ -1317,7 +1317,7 @@
                             },
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "VEX February 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "899ac570-3c6d-455e-8e1b-8405bbb179b1",
@@ -1364,7 +1364,7 @@
                             },
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Turkish Team February 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "85daac5a-0b6d-4b16-a44e-2be486ee8f44",
@@ -1433,7 +1433,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "February 2024",
+                                "name": "March 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1442,7 +1442,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "February 2024",
+                                    "March 2024",
                                     "Position Class"
                                 ]
                             ]
