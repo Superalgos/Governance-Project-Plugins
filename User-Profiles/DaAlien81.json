@@ -1608,7 +1608,7 @@
         "liquidityPrograms": {
             "type": "Liquidity Programs",
             "name": "New Liquidity Programs",
-            "config": "{}",
+            "config": "{\r\n  \"percentage\": 50,\r\n  \"Asset\": \"SA\"\r\n}",
             "project": "Governance",
             "liquidityProgram": [
                 {
@@ -1650,8 +1650,8 @@
                             "y": 38763.52030098819
                         },
                         "targetPosition": {
-                            "x": 12721,
-                            "y": 38361.80762113533
+                            "x": 12589,
+                            "y": 38539.80762113533
                         },
                         "floatingObject": {
                             "isPinned": true,
@@ -1678,12 +1678,12 @@
                         "id": "30751765-6a6f-4325-b71e-c9ead4209e03",
                         "savedPayload": {
                             "position": {
-                                "x": 12940.204614619837,
-                                "y": 38920.331870321854
+                                "x": 12808.204614619837,
+                                "y": 39098.331870321854
                             },
                             "targetPosition": {
-                                "x": 12830.602307309919,
-                                "y": 38641.06974572859
+                                "x": 12698.602307309919,
+                                "y": 38819.06974572859
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1701,12 +1701,12 @@
                     "id": "64e8723a-fccd-4173-a752-d00fce8ede35",
                     "savedPayload": {
                         "position": {
-                            "x": 12830.602307309919,
-                            "y": 38641.06974572859
+                            "x": 12698.602307309919,
+                            "y": 38819.06974572859
                         },
                         "targetPosition": {
-                            "x": 12721,
-                            "y": 38361.80762113533
+                            "x": 12589,
+                            "y": 38539.80762113533
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1725,8 +1725,8 @@
             "id": "b07623ae-f363-490b-9de6-8d8d95fa49e1",
             "savedPayload": {
                 "position": {
-                    "x": 12721,
-                    "y": 38361.80762113533
+                    "x": 12589,
+                    "y": 38539.80762113533
                 },
                 "targetPosition": {
                     "x": 12800,
@@ -1762,11 +1762,11 @@
                     "id": "21f5da8f-e08d-4c51-8199-01cb7d6f5faa",
                     "savedPayload": {
                         "position": {
-                            "x": 12684.495365205805,
+                            "x": 12440.495365205805,
                             "y": 39095.87198111217
                         },
                         "targetPosition": {
-                            "x": 12554.330243470537,
+                            "x": 12310.330243470537,
                             "y": 38825.58132074145
                         },
                         "floatingObject": {
@@ -1785,11 +1785,11 @@
                 "id": "29092b81-101c-4e90-a73d-4a4c4a1cc642",
                 "savedPayload": {
                     "position": {
-                        "x": 12554.330243470537,
+                        "x": 12310.330243470537,
                         "y": 38825.58132074145
                     },
                     "targetPosition": {
-                        "x": 12424.165121735268,
+                        "x": 12180.165121735268,
                         "y": 38555.29066037072
                     },
                     "floatingObject": {
@@ -1808,7 +1808,7 @@
             "id": "d0e40e31-6f57-4d46-9d70-dd94e033cc5a",
             "savedPayload": {
                 "position": {
-                    "x": 12424.165121735268,
+                    "x": 12180.165121735268,
                     "y": 38555.29066037072
                 },
                 "targetPosition": {
@@ -1858,8 +1858,8 @@
         "id": "8aafb076-9274-4499-a133-1e82b2d7cdfc",
         "savedPayload": {
             "position": {
-                "x": 12243,
-                "y": 38218
+                "x": 11906,
+                "y": 37975
             },
             "targetPosition": {
                 "x": 12500,
