@@ -1623,8 +1623,8 @@
                         "id": "441df617-ef93-4c82-a940-c9a46ae45238",
                         "savedPayload": {
                             "position": {
-                                "x": 13386.298495735078,
-                                "y": 38808.23298084104
+                                "x": 13387.762910835512,
+                                "y": 38729.930958157194
                             },
                             "targetPosition": {
                                 "x": 13089.649247867539,
@@ -1669,21 +1669,21 @@
                 {
                     "type": "Liquidity Program",
                     "name": "New Liquidity Program",
-                    "config": "{\n    \"asset\": \"BNB\"\n}",
+                    "config": "{\n    \"asset\": \"BNB\",\n    \"exchange\": \"PANCAKE\"\n}",
                     "project": "Governance",
                     "tokensAwarded": {
                         "type": "Tokens Awarded",
                         "name": "New Tokens Awarded",
                         "project": "Governance",
-                        "id": "30751765-6a6f-4325-b71e-c9ead4209e03",
+                        "id": "2382bab9-3643-4b3f-937e-1e644fe3882e",
                         "savedPayload": {
                             "position": {
-                                "x": 12808.204614619837,
-                                "y": 39098.331870321854
+                                "x": 13058.098889480818,
+                                "y": 38913.90150225058
                             },
                             "targetPosition": {
-                                "x": 12698.602307309919,
-                                "y": 38819.06974572859
+                                "x": 12823.549444740409,
+                                "y": 38726.854561692955
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1698,11 +1698,66 @@
                             }
                         }
                     },
-                    "id": "64e8723a-fccd-4173-a752-d00fce8ede35",
+                    "id": "027b71e8-bf50-45e2-889a-0472407e5ad8",
                     "savedPayload": {
                         "position": {
-                            "x": 12698.602307309919,
-                            "y": 38819.06974572859
+                            "x": 12823.549444740409,
+                            "y": 38726.854561692955
+                        },
+                        "targetPosition": {
+                            "x": 12589,
+                            "y": 38539.80762113533
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Liquidity Program",
+                    "name": "New Liquidity Program",
+                    "config": "{\n    \"asset\": \"BTCB\",\n    \"exchange\": \"PANCAKE\"\n}",
+                    "project": "Governance",
+                    "tokensAwarded": {
+                        "type": "Tokens Awarded",
+                        "name": "New Tokens Awarded",
+                        "project": "Governance",
+                        "id": "8689ea71-80f6-495c-a913-2166b131f586",
+                        "savedPayload": {
+                            "position": {
+                                "x": 12656.178685661984,
+                                "y": 39136.03494707128
+                            },
+                            "targetPosition": {
+                                "x": 12622.589342830992,
+                                "y": 38837.92128410331
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "8f09fe16-9662-4aa4-9e82-1bf8ffa0f5ac",
+                    "savedPayload": {
+                        "position": {
+                            "x": 12622.589342830992,
+                            "y": 38837.92128410331
                         },
                         "targetPosition": {
                             "x": 12589,
