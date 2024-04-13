@@ -150,7 +150,7 @@
         "communityBuildingPrograms": {
             "type": "Community Building Programs",
             "name": "New Community Building Programs",
-            "config": "{\n    \"percentage\": 25\n}",
+            "config": "{\n    \"percentage\": 50\n}",
             "project": "Governance",
             "referralProgram": {
                 "type": "Referral Program",
@@ -697,7 +697,7 @@
         "votesAndClaimsPrograms": {
             "type": "Votes And Claims Programs",
             "name": "New Votes And Claims Programs",
-            "config": "{\n    \"percentage\": 44\n}",
+            "config": "{\n    \"percentage\": 35\n}",
             "project": "Governance",
             "votingProgram": {
                 "type": "Voting Program",
@@ -715,14 +715,14 @@
                             {
                                 "type": "Claim Votes Switch",
                                 "name": "New Claim Votes Switch",
-                                "config": "{\r\n    \"amount\": 0\r\n}",
+                                "config": "{\r\n    \"amount\": 300000\r\n}",
                                 "project": "Governance",
                                 "claimVotesSwitch": [],
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "BicMC22 ",
-                                        "config": "{}",
+                                        "name": "BicMC22 Translations Team March 2024",
+                                        "config": "{\n    \"percentage\": 0\n}",
                                         "project": "Governance",
                                         "id": "ad8a3113-5321-46ad-8890-9cf988e3a49b",
                                         "savedPayload": {
@@ -747,7 +747,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Contribution Claim",
-                                                "name": "",
+                                                "name": "Translations Team March 2024",
                                                 "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -772,7 +772,7 @@
                                                     "Position Claims Folder"
                                                 ],
                                                 [
-                                                    "",
+                                                    "Translations Team March 2024",
                                                     "Position Contribution Claim"
                                                 ]
                                             ]
@@ -780,7 +780,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "",
+                                        "name": "motaviegas Translations Team March 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "471f6376-bab1-4e8d-8f9e-6723f240796d",
@@ -803,7 +803,38 @@
                                             },
                                             "uiObject": {
                                                 "isRunning": false
-                                            }
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position Contribution Claim",
+                                                "name": "Translations Team March 2024",
+                                                "id": "1c5f6e2f-9313-4bfe-a24b-9b7144b06ebb"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "motaviegas",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "March 2024 Position Class",
+                                                    "Position Claims Folder"
+                                                ],
+                                                [
+                                                    "Translations Team March 2024",
+                                                    "Position Contribution Claim"
+                                                ]
+                                            ]
                                         }
                                     }
                                 ],
@@ -2710,7 +2741,7 @@
                             "floatingObject": {
                                 "isPinned": false,
                                 "isFrozen": false,
-                                "isCollapsed": true,
+                                "isCollapsed": false,
                                 "angleToParent": 2,
                                 "distanceToParent": 3,
                                 "arrangementStyle": 0
@@ -2774,7 +2805,7 @@
             "claimsProgram": {
                 "type": "Claims Program",
                 "name": "New Claims Program",
-                "config": "{\r\n    \"amount\": 100000\r\n}",
+                "config": "{\r\n    \"amount\": 130000\r\n}",
                 "project": "Governance",
                 "assetClaimsFolders": [],
                 "featureClaimsFolders": [],
@@ -3006,7 +3037,7 @@
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": false,
+                        "isCollapsed": true,
                         "angleToParent": 2,
                         "distanceToParent": 3,
                         "arrangementStyle": 0
