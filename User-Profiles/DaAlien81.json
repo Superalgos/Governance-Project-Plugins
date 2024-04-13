@@ -160,7 +160,7 @@
                 "userReferrers": [
                     {
                         "type": "User Referrer",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "cceceb4c-bf03-43ca-917d-c7a098229399",
@@ -199,7 +199,7 @@
                     },
                     {
                         "type": "User Referrer",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "69d2b7a7-d932-46d1-8cf3-57b1a250f43a",
@@ -322,7 +322,7 @@
                 "userSupporters": [
                     {
                         "type": "User Supporter",
-                        "name": "Loui-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "fa5f8cd3-3c26-4093-b5e7-ab93aa31db27",
@@ -445,7 +445,7 @@
                 "userMentors": [
                     {
                         "type": "User Mentor",
-                        "name": "drcryptokiller",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "b23aa638-7e8c-45be-8e39-b1e2d29b0ec0",
@@ -629,7 +629,7 @@
                                                         "assetClaimVotes": [
                                                             {
                                                                 "type": "Asset Claim Vote",
-                                                                "name": "teehanming ",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "24a5e6d7-16d7-489d-9b3d-246baaab1924",
@@ -947,7 +947,7 @@
                                 "poolWeightVotes": [
                                     {
                                         "type": "Pool Weight Vote",
-                                        "name": "Governance Programs  Pool Class",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "99ef8fba-5360-4d05-8a80-ecbc68dab9c3",
@@ -994,7 +994,7 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "Teams of Contributors March 2024",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "27246b0c-fe80-42cb-a66c-10406c6c3001",
@@ -1223,7 +1223,7 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Translations Team March 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "67600c0d-fc4a-4dca-82a5-6b80ad52b436",
@@ -1805,23 +1805,23 @@
             "taskServerApps": [
                 {
                     "type": "Task Server App",
-                    "name": "New Task Server App",
+                    "name": "New Task Server App daa",
                     "config": "{\n    \"codeName\": \"Task-Server-App-1\"\n}",
                     "project": "User-Apps",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x411cc7d97ca42ccef76f5f0ba2525aa3de1813af4a981851124ac151ef5b5b4d\",\n        \"s\": \"0x415cf0de9146531617eb2f168c9c4fdeedb609c8d4b95996ef10a85ae934ce0a\",\n        \"signature\": \"0x411cc7d97ca42ccef76f5f0ba2525aa3de1813af4a981851124ac151ef5b5b4d415cf0de9146531617eb2f168c9c4fdeedb609c8d4b95996ef10a85ae934ce0a1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xc428d243cf17cd4fdd0300444c0a712a9074f785c6f38f8fe0b9093d6c4f01cc\",\n        \"s\": \"0x0cc2e1e3914146065ae220438a3fcf6c86645eb0976d4e31b59fad6892217114\",\n        \"signature\": \"0xc428d243cf17cd4fdd0300444c0a712a9074f785c6f38f8fe0b9093d6c4f01cc0cc2e1e3914146065ae220438a3fcf6c86645eb0976d4e31b59fad68922171141b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "88fab834-3d61-475f-be82-662cfde933ff",
+                        "id": "098b21c6-d73e-41ed-8e27-2725ce6d3b51",
                         "savedPayload": {
                             "position": {
-                                "x": 11529.179606750062,
-                                "y": 38705.34230275097
+                                "x": 11969.948342355327,
+                                "y": 38748.02771998597
                             },
                             "targetPosition": {
-                                "x": 11771.884705062546,
-                                "y": 38529.00672706323
+                                "x": 12045.948342355327,
+                                "y": 38651.02771998597
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1839,8 +1839,64 @@
                     "id": "28b9bb15-1137-41bb-a243-7d84d156a7b5",
                     "savedPayload": {
                         "position": {
-                            "x": 11771.884705062546,
-                            "y": 38529.00672706323
+                            "x": 12045.948342355327,
+                            "y": 38651.02771998597
+                        },
+                        "targetPosition": {
+                            "x": 12014.58980337503,
+                            "y": 38352.671151375485
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Task Server App",
+                    "name": "New Task Server App soaring daalien",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-2\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x4e539ba0ca78a2f17f56e321cb6f5f49b24abbf23ace03a726b516ae873f8a78\",\n        \"s\": \"0x291bcdae08804250ba3a086367da7c22c9efee373c7e170dc84a09ddc9657e6b\",\n        \"signature\": \"0x4e539ba0ca78a2f17f56e321cb6f5f49b24abbf23ace03a726b516ae873f8a78291bcdae08804250ba3a086367da7c22c9efee373c7e170dc84a09ddc9657e6b1b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "6b81111b-cb74-4e5d-929d-dbc68fd22264",
+                        "savedPayload": {
+                            "position": {
+                                "x": 11719.52616608225,
+                                "y": 38221.65015845274
+                            },
+                            "targetPosition": {
+                                "x": 11740.52616608225,
+                                "y": 38230.65015845274
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "2eee105f-e63f-4e50-99ba-b50b4567e98c",
+                    "savedPayload": {
+                        "position": {
+                            "x": 11740.52616608225,
+                            "y": 38230.65015845274
                         },
                         "targetPosition": {
                             "x": 12014.58980337503,
@@ -1926,13 +1982,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc0b4685f4bc99986dc0223074011f6b0dcc26a2eede9c992827d73360b7bb47a\",\n        \"s\": \"0x76c45e924f490ae5895cdf4c8985bf1cf593ba6aaf63eb37aa3fa6af3d1ba254\",\n        \"signature\": \"0xc0b4685f4bc99986dc0223074011f6b0dcc26a2eede9c992827d73360b7bb47a76c45e924f490ae5895cdf4c8985bf1cf593ba6aaf63eb37aa3fa6af3d1ba2541c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x053eaf34586116dd8eee38a0050f6fc06147edfb85ebb402051e12df88a7d546\",\n        \"s\": \"0x18588a8a7f4277341332d17974f0ef721ca3e28eac1cea3233be460f5401ddfe\",\n        \"signature\": \"0x053eaf34586116dd8eee38a0050f6fc06147edfb85ebb402051e12df88a7d54618588a8a7f4277341332d17974f0ef721ca3e28eac1cea3233be460f5401ddfe1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d710e084-e35b-4d9c-8776-7c276bffcc0e",
+                        "id": "4ec9b84f-4c40-4169-ba16-997a4863b589",
                         "savedPayload": {
                             "position": {
-                                "x": 11497.821067769766,
-                                "y": 37593.014265859514
+                                "x": 11765.884705062546,
+                                "y": 37492.99327293677
                             },
                             "targetPosition": {
                                 "x": 11771.884705062546,
@@ -2082,11 +2138,39 @@
             {
                 "type": "P2P Network Node",
                 "name": "New P2P Network Node",
-                "config": "{ \n\"codeName\": \"\", \n\"host\": \"localhost\", \n\"clientMinimunBalance\": 0, \n\"peerMinimunBalance\": 0, \n\"clientMinTokenAllocation\": 0, \n\"peerMinTokenAllocation\": 0 \n}",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"localhost\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
                 "project": "Network",
+                "signingAccount": {
+                    "type": "Signing Account",
+                    "name": "New Signing Account",
+                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"DaAlien81\",\n        \"messageHash\": \"0xcae9c430b25d48ef4ef55bd8e297eb7fb9eb85577025215480e2f432b4005b1f\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xf50271c8e32a8a4ceef0d8c8086b8f1da0e81a562c4bb6acd5f45fa7b9dc0fd7\",\n        \"s\": \"0x7158b3791debc1ff2cd7af732610c953e4517d6156eaaf4a7aae3a14664e87b8\",\n        \"signature\": \"0xf50271c8e32a8a4ceef0d8c8086b8f1da0e81a562c4bb6acd5f45fa7b9dc0fd77158b3791debc1ff2cd7af732610c953e4517d6156eaaf4a7aae3a14664e87b81b\"\n    }\n}",
+                    "project": "Governance",
+                    "id": "50e6cb5c-b4de-4929-9fa7-83769ceacd9d",
+                    "savedPayload": {
+                        "position": {
+                            "x": 12185.41019662497,
+                            "y": 37072.3660902229
+                        },
+                        "targetPosition": {
+                            "x": 12199.41019662497,
+                            "y": 37050.3660902229
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
                 "p2pNetworkReference": {
                     "type": "P2P Network Reference",
-                    "name": "Permissioned P2P Network",
+                    "name": "",
                     "project": "Network",
                     "id": "09871bee-d5fd-4821-8527-83a689a27a75",
                     "savedPayload": {
