@@ -666,6 +666,239 @@
             "name": "New Votes And Claims Programs",
             "config": "{}",
             "project": "Governance",
+            "votingProgram": {
+                "type": "Voting Program",
+                "name": "New Voting Program",
+                "config": "{}",
+                "project": "Governance",
+                "votesSwitch": [
+                    {
+                        "type": "Votes Switch",
+                        "name": "New Votes Switch",
+                        "config": "{}",
+                        "project": "Governance",
+                        "votesSwitch": [],
+                        "claimVotesSwitch": [],
+                        "weightVotesSwitch": [
+                            {
+                                "type": "Weight Votes Switch",
+                                "name": "March 2024",
+                                "config": "{\n  \n}",
+                                "project": "Governance",
+                                "weightVotesSwitch": [],
+                                "poolWeightVotes": [],
+                                "assetWeightVotes": [],
+                                "featureWeightVotes": [],
+                                "positionWeightVotes": [
+                                    {
+                                        "type": "Position Weight Vote",
+                                        "name": "March 2024 Translations Team",
+                                        "config": "{\n    \"percentage\": 25\n}",
+                                        "project": "Governance",
+                                        "id": "568abe7e-8fd2-466d-80bd-6ceca81189f6",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 27323.598318809745,
+                                                "y": 17830.384757729335
+                                            },
+                                            "targetPosition": {
+                                                "x": 27323.598318809745,
+                                                "y": 18130.384757729335
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position",
+                                                "name": "Translations Team",
+                                                "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "Teams of Contributors",
+                                                    "Positions"
+                                                ],
+                                                [
+                                                    "March 2024",
+                                                    "Position Class"
+                                                ],
+                                                [
+                                                    "Translations Team",
+                                                    "Position"
+                                                ]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "Position Weight Vote",
+                                        "name": "March 2024 VEX Team",
+                                        "config": "{}",
+                                        "project": "Governance",
+                                        "id": "6da50a6d-11b3-4205-a318-7b3dfabae7a8",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 27583.405939945078,
+                                                "y": 17980.384757729335
+                                            },
+                                            "targetPosition": {
+                                                "x": 27323.598318809745,
+                                                "y": 18130.384757729335
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position",
+                                                "name": "VEX Team",
+                                                "id": "71221e95-abf2-4a10-9b21-505eaeb22abd"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "Teams of Contributors",
+                                                    "Positions"
+                                                ],
+                                                [
+                                                    "March 2024",
+                                                    "Position Class"
+                                                ],
+                                                [
+                                                    "VEX Team",
+                                                    "Position"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "id": "0e0cfc70-3740-46f7-b097-a2766197a616",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 27323.598318809745,
+                                        "y": 18130.384757729335
+                                    },
+                                    "targetPosition": {
+                                        "x": 27173.598318809745,
+                                        "y": 18390.192378864667
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position Class",
+                                        "name": "March 2024",
+                                        "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "March 2024",
+                                            "Position Class"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "userProfileVotesSwitch": [],
+                        "id": "dd2166ea-46b0-411c-b2af-a0ab64c9a958",
+                        "savedPayload": {
+                            "position": {
+                                "x": 27173.598318809745,
+                                "y": 18390.192378864667
+                            },
+                            "targetPosition": {
+                                "x": 27023.598318809745,
+                                "y": 18650
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    }
+                ],
+                "tokensBonus": {
+                    "type": "Tokens Bonus",
+                    "name": "New Tokens Bonus",
+                    "project": "Governance",
+                    "id": "75fca868-2284-4c4a-8d74-d59022a68888",
+                    "savedPayload": {
+                        "position": {
+                            "x": 27323.598318809745,
+                            "y": 18650
+                        },
+                        "targetPosition": {
+                            "x": 27023.598318809745,
+                            "y": 18650
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "id": "7af0b9e5-53bb-4587-a4b8-f17d7515481c",
+                "savedPayload": {
+                    "position": {
+                        "x": 27023.598318809745,
+                        "y": 18650
+                    },
+                    "targetPosition": {
+                        "x": 26763.790697674413,
+                        "y": 18800
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 2,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
             "claimsProgram": {
                 "type": "Claims Program",
                 "name": "New Claims Program",
@@ -676,20 +909,115 @@
                 "positionClaimsFolders": [
                     {
                         "type": "Position Claims Folder",
-                        "name": "New Position Claims Folder",
+                        "name": "March 2024 Position Class",
                         "config": "{}",
                         "project": "Governance",
                         "positionClaimsFolders": [],
-                        "positionContributionClaims": [],
+                        "positionContributionClaims": [
+                            {
+                                "type": "Position Contribution Claim",
+                                "name": "Translations Team March 2024",
+                                "config": "{}",
+                                "project": "Governance",
+                                "id": "819337f4-9af3-42ba-8fea-1a99cc4d44f0",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 27583.405939945078,
+                                        "y": 18800
+                                    },
+                                    "targetPosition": {
+                                        "x": 27323.598318809745,
+                                        "y": 18950
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position",
+                                        "name": "Translations Team",
+                                        "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "March 2024",
+                                            "Position Class"
+                                        ],
+                                        [
+                                            "Translations Team",
+                                            "Position"
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "Position Contribution Claim",
+                                "name": "VEX Team March 2024",
+                                "config": "{}",
+                                "project": "Governance",
+                                "id": "550229dc-c803-440a-93cd-69b47fc86fdf",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 27583.405939945078,
+                                        "y": 19100
+                                    },
+                                    "targetPosition": {
+                                        "x": 27323.598318809745,
+                                        "y": 18950
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position",
+                                        "name": "VEX Team",
+                                        "id": "71221e95-abf2-4a10-9b21-505eaeb22abd"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "March 2024",
+                                            "Position Class"
+                                        ],
+                                        [
+                                            "VEX Team",
+                                            "Position"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
                         "id": "a14676d2-bea8-48cb-8131-61a6ae66f1ac",
                         "savedPayload": {
                             "position": {
                                 "x": 27323.598318809745,
-                                "y": 18650
+                                "y": 18950
                             },
                             "targetPosition": {
-                                "x": 27063.790697674413,
-                                "y": 18800
+                                "x": 27023.598318809745,
+                                "y": 18950
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -727,12 +1055,12 @@
                     "id": "c40f783c-efa8-4231-8b6f-9829f65265f7",
                     "savedPayload": {
                         "position": {
-                            "x": 27323.598318809745,
-                            "y": 18950
+                            "x": 27173.598318809745,
+                            "y": 19209.807621135333
                         },
                         "targetPosition": {
-                            "x": 27063.790697674413,
-                            "y": 18800
+                            "x": 27023.598318809745,
+                            "y": 18950
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -750,8 +1078,8 @@
                 "id": "2db00e8f-bd06-47ca-87e3-6fbaacb84efa",
                 "savedPayload": {
                     "position": {
-                        "x": 27063.790697674413,
-                        "y": 18800
+                        "x": 27023.598318809745,
+                        "y": 18950
                     },
                     "targetPosition": {
                         "x": 26763.790697674413,
