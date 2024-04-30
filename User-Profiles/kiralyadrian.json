@@ -1,7 +1,7 @@
 {
     "type": "User Profile",
     "name": "kiralyadrian",
-    "config": "{\"signature\":{\"message\":\"kiralyadrian\",\"messageHash\":\"0x09c830aab0881b341f0344dc7fc8f14c1a050b8958b4191d81493030e2b580b6\",\"v\":\"0x1c\",\"r\":\"0xcca6243bfe2251fab65eab99584cc1fb91a98f9c2fb5066d8fd79abd3305f8eb\",\"s\":\"0x7901596b313869525f914ae87e1d0b9689f33a5f420bbc442ae3758a42a85a7d\",\"signature\":\"0xcca6243bfe2251fab65eab99584cc1fb91a98f9c2fb5066d8fd79abd3305f8eb7901596b313869525f914ae87e1d0b9689f33a5f420bbc442ae3758a42a85a7d1c\"},\"codeName\":\"kiralyadrian\"}",
+    "config": "{\n    \"signature\": {\n        \"message\": \"kiralyadrian\",\n        \"messageHash\": \"0x09c830aab0881b341f0344dc7fc8f14c1a050b8958b4191d81493030e2b580b6\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xcca6243bfe2251fab65eab99584cc1fb91a98f9c2fb5066d8fd79abd3305f8eb\",\n        \"s\": \"0x7901596b313869525f914ae87e1d0b9689f33a5f420bbc442ae3758a42a85a7d\",\n        \"signature\": \"0xcca6243bfe2251fab65eab99584cc1fb91a98f9c2fb5066d8fd79abd3305f8eb7901596b313869525f914ae87e1d0b9689f33a5f420bbc442ae3758a42a85a7d1c\"\n    },\n    \"codeName\": \"kiralyadrian\"\n}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
@@ -678,7 +678,186 @@
                         "config": "{}",
                         "project": "Governance",
                         "votesSwitch": [],
-                        "claimVotesSwitch": [],
+                        "claimVotesSwitch": [
+                            {
+                                "type": "Claim Votes Switch",
+                                "name": "March 2024 Position Class",
+                                "config": "{\n    \"percentage\": 25\n}",
+                                "project": "Governance",
+                                "claimVotesSwitch": [],
+                                "positionClaimVotes": [
+                                    {
+                                        "type": "Position Claim Vote",
+                                        "name": "kiralyadrian Translations Team March 2024",
+                                        "config": "{}",
+                                        "project": "Governance",
+                                        "id": "16aad9d1-e6c2-41c8-8162-41c41844b502",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 27023.598318809745,
+                                                "y": 17830.384757729335
+                                            },
+                                            "targetPosition": {
+                                                "x": 27173.598318809745,
+                                                "y": 18090.192378864667
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position Contribution Claim",
+                                                "name": "Translations Team March 2024",
+                                                "id": "819337f4-9af3-42ba-8fea-1a99cc4d44f0"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "kiralyadrian",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "March 2024 Position Class",
+                                                    "Position Claims Folder"
+                                                ],
+                                                [
+                                                    "Translations Team March 2024",
+                                                    "Position Contribution Claim"
+                                                ]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "Position Claim Vote",
+                                        "name": "kiralyadrian VEX Team March 2024",
+                                        "config": "{}",
+                                        "project": "Governance",
+                                        "id": "42bafee5-08fa-4d2a-98db-bba8b89ee6be",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 27323.598318809745,
+                                                "y": 17830.384757729335
+                                            },
+                                            "targetPosition": {
+                                                "x": 27173.598318809745,
+                                                "y": 18090.192378864667
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position Contribution Claim",
+                                                "name": "VEX Team March 2024",
+                                                "id": "550229dc-c803-440a-93cd-69b47fc86fdf"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "kiralyadrian",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "March 2024 Position Class",
+                                                    "Position Claims Folder"
+                                                ],
+                                                [
+                                                    "VEX Team March 2024",
+                                                    "Position Contribution Claim"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "assetClaimVotes": [],
+                                "featureClaimVotes": [],
+                                "id": "b364992c-a5ba-4c0e-83a6-fb4bf402e3a7",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 27173.598318809745,
+                                        "y": 18090.192378864667
+                                    },
+                                    "targetPosition": {
+                                        "x": 27173.598318809745,
+                                        "y": 18390.192378864667
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position Claims Folder",
+                                        "name": "March 2024 Position Class",
+                                        "id": "a14676d2-bea8-48cb-8131-61a6ae66f1ac"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "kiralyadrian",
+                                            "User Profile"
+                                        ],
+                                        [
+                                            "New Token Power Switch",
+                                            "Token Power Switch"
+                                        ],
+                                        [
+                                            "New Votes And Claims Programs",
+                                            "Votes And Claims Programs"
+                                        ],
+                                        [
+                                            "New Claims Program",
+                                            "Claims Program"
+                                        ],
+                                        [
+                                            "March 2024 Position Class",
+                                            "Position Claims Folder"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
                         "weightVotesSwitch": [
                             {
                                 "type": "Weight Votes Switch",
@@ -698,12 +877,12 @@
                                         "id": "568abe7e-8fd2-466d-80bd-6ceca81189f6",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 27323.598318809745,
-                                                "y": 17830.384757729335
+                                                "x": 27583.405939945078,
+                                                "y": 17980.384757729335
                                             },
                                             "targetPosition": {
-                                                "x": 27323.598318809745,
-                                                "y": 18130.384757729335
+                                                "x": 27433.405939945078,
+                                                "y": 18240.192378864667
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -745,12 +924,12 @@
                                         "id": "6da50a6d-11b3-4205-a318-7b3dfabae7a8",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 27583.405939945078,
-                                                "y": 17980.384757729335
+                                                "x": 27733.405939945078,
+                                                "y": 18240.192378864667
                                             },
                                             "targetPosition": {
-                                                "x": 27323.598318809745,
-                                                "y": 18130.384757729335
+                                                "x": 27433.405939945078,
+                                                "y": 18240.192378864667
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -788,8 +967,8 @@
                                 "id": "0e0cfc70-3740-46f7-b097-a2766197a616",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 27323.598318809745,
-                                        "y": 18130.384757729335
+                                        "x": 27433.405939945078,
+                                        "y": 18240.192378864667
                                     },
                                     "targetPosition": {
                                         "x": 27173.598318809745,
