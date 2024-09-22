@@ -5520,8 +5520,8 @@
                                             "y": 44761.53013278856
                                         },
                                         "targetPosition": {
-                                            "x": 27360.690625962885,
-                                            "y": 5602.529551335488
+                                            "x": 26876.280429337916,
+                                            "y": 5249.858399960003
                                         },
                                         "floatingObject": {
                                             "isPinned": true,
@@ -5648,7 +5648,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 5,
                     "arrangementStyle": 0
