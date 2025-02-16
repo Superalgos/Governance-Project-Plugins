@@ -160,7 +160,7 @@
                 "userReferrers": [
                     {
                         "type": "User Referrer",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "8dd3a98e-a1ec-4abb-be3c-c8d070c7bc07",
@@ -283,7 +283,7 @@
                 "userSupporters": [
                     {
                         "type": "User Supporter",
-                        "name": "cozed-gh",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "f0832f82-2ac7-4386-a1e9-4498d00ca679",
@@ -460,7 +460,7 @@
                                                 "positionClaimVotes": [
                                                     {
                                                         "type": "Position Claim Vote",
-                                                        "name": "tigers40 VEX March 2023 Teams",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "8c1a0f49-fb7f-4c48-8f91-7ae0e193e7ab",
@@ -647,7 +647,7 @@
                                                 "positionClaimVotes": [
                                                     {
                                                         "type": "Position Claim Vote",
-                                                        "name": "prepheadrus VEX March 2023 Teams",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "0100885d-b990-487c-ba45-45fd401a5fef",
@@ -861,7 +861,7 @@
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "cozed-gh Carl J March 2023 Teams",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "f23acbaf-6482-4e10-a310-69bb5799f294",
@@ -986,7 +986,7 @@
                                                 "positionClaimVotes": [
                                                     {
                                                         "type": "Position Claim Vote",
-                                                        "name": "Raplh2502 Signalitic March 2023 Teams",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "d931be80-36a1-47b9-83bd-1b6c07e2c5ae",
@@ -1200,7 +1200,7 @@
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "quantum8 Data Mining March 2023 Teams",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "c5f44229-1689-447e-b3b4-458f86735150",
@@ -1296,7 +1296,7 @@
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "cozed-gh Carl J March 2023 Teams",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "90996a1c-b697-4a85-8527-89d6670cf690",
@@ -1416,7 +1416,7 @@
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "Manupolix ",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "61e9f49a-2e83-4b5f-b052-354693fa2c27",
@@ -1475,7 +1475,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "splywaczyk Seweryn Plywaczyk March 2023 Teams",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "9b5cd37a-4486-42e9-8e3d-bc606398580e",
@@ -1534,7 +1534,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "BicMC22 Translations March 2023 Teams",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "e05535ae-163a-42c3-9211-8708044dc95c",
@@ -1593,7 +1593,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "Awhiteweb Alex White March 2023 Teams",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "a8a1ff3e-14e7-42f6-a376-ed38cb5394ec",
@@ -1656,7 +1656,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "ViceReMix ",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "f6c8887b-80f2-4f1e-bb12-97b030cdd338",
@@ -1715,7 +1715,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "VarletNL ",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "402fcffe-e4de-4943-a436-15244325aa89",
@@ -1837,7 +1837,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "NAmorim ",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "090823e8-2e7c-4a18-93d6-7f1cefba3c78",
@@ -1896,7 +1896,7 @@
                                     },
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "BastianMuc Elves and Fairies March 2023 Teams",
+                                        "name": "BastianMuc ",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "c7573d0a-f761-4cc0-8498-44cbab0fe023",
@@ -1922,7 +1922,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Contribution Claim",
-                                                "name": "Elves and Fairies March 2023 Teams",
+                                                "name": "",
                                                 "id": "1dfaa8d3-154d-4330-8ccb-587739b2cd6a"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -1947,7 +1947,7 @@
                                                     "Position Claims Folder"
                                                 ],
                                                 [
-                                                    "Elves and Fairies March 2023 Teams",
+                                                    "",
                                                     "Position Contribution Claim"
                                                 ]
                                             ]
@@ -2040,7 +2040,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Referrals Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "2e245a56-f368-42d5-ba19-31ad1b022d2c",
@@ -2095,7 +2095,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Referrals Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "08bff89c-10c5-4f4e-9b67-0de89767921a",
@@ -2207,7 +2207,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Support Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "6c8a186d-c8d1-4668-b137-79fe70a9b166",
@@ -2262,7 +2262,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Support Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "c05cb642-d8d4-4d12-bb06-899551c0ed60",
@@ -2374,7 +2374,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Mentorship Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "c39a329c-cd4e-4394-abf5-837a89e5b1d3",
@@ -2429,7 +2429,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Mentorship Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "90e5ac03-c918-4354-8f47-e45062d58da8",
@@ -2594,7 +2594,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Airdrop Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "87f32b85-e06e-4c48-bd41-f34dc198aa00",
@@ -2706,7 +2706,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Github Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "11966217-6e17-499c-881e-188db8984360",
@@ -2871,7 +2871,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Voting Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "65a1b0e0-b3f2-4a20-9f11-1a54af8378c5",
@@ -3030,7 +3030,7 @@
                                                 "poolWeightVotes": [
                                                     {
                                                         "type": "Pool Weight Vote",
-                                                        "name": "Liquidity Rewards Pool",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "78584766-82de-432f-996b-fb587c1b93c4",
@@ -3140,7 +3140,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Staking Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "17f5c641-ee3d-4e7a-9f04-7298af76b5ce",
@@ -3252,7 +3252,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Delegation Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "1be9850c-442d-4126-bc99-2eaedb6aa982",
@@ -3411,7 +3411,7 @@
                                                 "poolWeightVotes": [
                                                     {
                                                         "type": "Pool Weight Vote",
-                                                        "name": "Bitcoin Factory Rewards Pool",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "e1751cd0-0caa-4b7c-9031-b989675bce4f",
@@ -3558,7 +3558,7 @@
                                         "poolWeightVotes": [
                                             {
                                                 "type": "Pool Weight Vote",
-                                                "name": "Team Positions Pool",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "b2a5241c-7f27-4f74-960b-1fb6a50ffe31",
@@ -3699,7 +3699,7 @@
                                         "poolWeightVotes": [
                                             {
                                                 "type": "Pool Weight Vote",
-                                                "name": "Team Positions Pool",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "a0e27c60-953f-41d5-9817-d866fe5a00be",
@@ -3807,7 +3807,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Referrals Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "3294b91f-0849-45b6-bd8e-88eec0258fc1",
@@ -3862,7 +3862,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Referrals Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "9668cc37-67c8-4d53-9279-3eb06bf5cec4",
@@ -3974,7 +3974,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Support Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "a962e27b-c27b-47c7-8c68-8713df718c94",
@@ -4029,7 +4029,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Support Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "320f151d-7404-4734-af2e-9bd668c23b05",
@@ -4141,7 +4141,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Mentorship Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "e8c9a5a2-57a7-461b-92f2-bbb5b91c7a41",
@@ -4196,7 +4196,7 @@
                                                             },
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Mentorship Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "2e9e948b-a360-49bb-b593-49724190d29e",
@@ -4361,7 +4361,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Airdrop Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "8d38b0e5-f54c-41f5-ab00-2035e70d1293",
@@ -4473,7 +4473,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Github Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "dccc1f01-ad5d-4806-9191-49c7c682d527",
@@ -4638,7 +4638,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Voting Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "09a12bec-e60c-4de6-8f13-59334542a56b",
@@ -4797,7 +4797,7 @@
                                                 "poolWeightVotes": [
                                                     {
                                                         "type": "Pool Weight Vote",
-                                                        "name": "Liquidity Rewards Pool",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "9edbc4e6-93ed-4513-95af-46e4f5c232c1",
@@ -4907,7 +4907,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Staking Rewards Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "8b4a80f7-c424-427b-aea6-f0c0529f69f5",
@@ -5019,7 +5019,7 @@
                                                         "poolWeightVotes": [
                                                             {
                                                                 "type": "Pool Weight Vote",
-                                                                "name": "Delegation Bonus Pool",
+                                                                "name": "",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "22fba7ae-03ad-4c24-928c-6725460e5517",
@@ -5178,7 +5178,7 @@
                                                 "poolWeightVotes": [
                                                     {
                                                         "type": "Pool Weight Vote",
-                                                        "name": "Bitcoin Factory Rewards Pool",
+                                                        "name": "",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "526eea53-a76c-4d4a-b5cf-09051b7b7f7a",
@@ -5918,7 +5918,7 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Signalitic March 2023 Teams",
+                                "name": "",
                                 "config": "{\r\n    \"amount\": 450000\r\n}",
                                 "project": "Governance",
                                 "id": "bab2caf5-e1bc-40dd-a55c-01735f96671a",
@@ -6136,7 +6136,7 @@
                         "userDelegates": [
                             {
                                 "type": "User Delegate",
-                                "name": "Raplh2502",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "25aad546-7348-4030-95d9-b259230d571d",
@@ -6175,7 +6175,7 @@
                             },
                             {
                                 "type": "User Delegate",
-                                "name": "quantum8",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "2f678d20-08aa-4717-a2be-12ffe1935dc6",
@@ -6214,7 +6214,7 @@
                             },
                             {
                                 "type": "User Delegate",
-                                "name": "cozed-gh",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "c3c311ac-7ef0-4818-a235-b5372af61a51",
@@ -6503,13 +6503,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x9f2f00f52084113fe2c9565000a8009fcdf00e16ee31276f43e214df74e97be0\",\n        \"s\": \"0x0002ed87a36167c08b28ed4e4d180d841aec5dadd8af896aa1449a0ff726461e\",\n        \"signature\": \"0x9f2f00f52084113fe2c9565000a8009fcdf00e16ee31276f43e214df74e97be00002ed87a36167c08b28ed4e4d180d841aec5dadd8af896aa1449a0ff726461e1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xff93491675ccb5e5a6f408878a7259a9055bae58081ab937a550d54d21a821a1\",\n        \"s\": \"0x1b0f17b1f51349d5188903b2de05e169f98ca14153f0a3d6d5311c83a7e2915a\",\n        \"signature\": \"0xff93491675ccb5e5a6f408878a7259a9055bae58081ab937a550d54d21a821a11b0f17b1f51349d5188903b2de05e169f98ca14153f0a3d6d5311c83a7e2915a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "50c6c891-09c2-4b18-b349-e150a6014454",
+                        "id": "e2d1de55-61ed-461d-8264-0cae4d5fa9e6",
                         "savedPayload": {
                             "position": {
-                                "x": 42678.83587035986,
-                                "y": 19665.31792427293
+                                "x": 42496.60125230847,
+                                "y": 19460.137335791012
                             },
                             "targetPosition": {
                                 "x": 42413.60125230847,
@@ -6559,13 +6559,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb735df234047681183fb5337f063261c31758debe6bd736b8ba01a62298c9f2f\",\n        \"s\": \"0x43e24b14dcd0508220562ab34f4ddf55b509c7ddcf33b8498eb7bdf2d0e081af\",\n        \"signature\": \"0xb735df234047681183fb5337f063261c31758debe6bd736b8ba01a62298c9f2f43e24b14dcd0508220562ab34f4ddf55b509c7ddcf33b8498eb7bdf2d0e081af1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd81f536cacb18b709693aa438beb1b6ce87d312fd00d884f7224db087e29d45d\",\n        \"s\": \"0x3fe90b86472d0f122bfd2aaa4bbab5209c11ba943548cb311cbb9557bb73ef39\",\n        \"signature\": \"0xd81f536cacb18b709693aa438beb1b6ce87d312fd00d884f7224db087e29d45d3fe90b86472d0f122bfd2aaa4bbab5209c11ba943548cb311cbb9557bb73ef391b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "dbc0e035-827e-4bc8-8207-e3f62bd44392",
+                        "id": "f475ae5b-e6da-4b57-92dc-19a80dd4d40e",
                         "savedPayload": {
                             "position": {
-                                "x": 42588.19775735499,
-                                "y": 19793.060389971644
+                                "x": 42398.28219580604,
+                                "y": 19527.00856864037
                             },
                             "targetPosition": {
                                 "x": 42368.28219580604,
@@ -6615,13 +6615,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-3\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x57eb46a00b9deda12263ba360021f493c98ba5558867ffec61a11d401daccd35\",\n        \"s\": \"0x01dbea5c1abe32526b715f3cadfd38bc7e84b50e25d6021eba35892cf308e64a\",\n        \"signature\": \"0x57eb46a00b9deda12263ba360021f493c98ba5558867ffec61a11d401daccd3501dbea5c1abe32526b715f3cadfd38bc7e84b50e25d6021eba35892cf308e64a1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-3\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x49640b0369d9d0dcaa70776760c82cc99a5cad8854359a443b275f338c256ff9\",\n        \"s\": \"0x07c8bb820c13802a6b914a4847b01635fa755e269644339f5b30ccbe0b93a26d\",\n        \"signature\": \"0x49640b0369d9d0dcaa70776760c82cc99a5cad8854359a443b275f338c256ff907c8bb820c13802a6b914a4847b01635fa755e269644339f5b30ccbe0b93a26d1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "ece500d6-cdcf-4c15-83fd-5388ba5b9b20",
+                        "id": "72f914d1-906e-47e1-b21e-472382e4adaa",
                         "savedPayload": {
                             "position": {
-                                "x": 42467.58588016629,
-                                "y": 19892.991266846067
+                                "x": 42235.97625721169,
+                                "y": 19608.97400707758
                             },
                             "targetPosition": {
                                 "x": 42307.97625721169,
@@ -6671,13 +6671,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x4de503876382b5c661d8f363b4cc4bf624c7290578b421e2828184c4c95bd2a7\",\n        \"s\": \"0x638fc7f183eb6fd0c69b8a35eb7f476545add6b0c4c2af5405746abd307aca31\",\n        \"signature\": \"0x4de503876382b5c661d8f363b4cc4bf624c7290578b421e2828184c4c95bd2a7638fc7f183eb6fd0c69b8a35eb7f476545add6b0c4c2af5405746abd307aca311c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xcb508dccec77039ce2635aed9f09b609e8800f56d5f35e2e41f95f72cc8463d7\",\n        \"s\": \"0x6f250498a659a577cd77e047c74a0c0d04f3e2e38664de34ce32cef04fa7bdf5\",\n        \"signature\": \"0xcb508dccec77039ce2635aed9f09b609e8800f56d5f35e2e41f95f72cc8463d76f250498a659a577cd77e047c74a0c0d04f3e2e38664de34ce32cef04fa7bdf51b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "2d753b19-673e-42d7-9bdd-f4089f7b155d",
+                        "id": "d0f3f08d-effd-41d8-ae27-b4dab5b7847f",
                         "savedPayload": {
                             "position": {
-                                "x": 42325.21973890362,
-                                "y": 19958.30043078078
+                                "x": 42282.793186580355,
+                                "y": 19578.628589044936
                             },
                             "targetPosition": {
                                 "x": 42236.793186580355,
@@ -6727,13 +6727,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-5\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x64e321d052a5d3aaeaf70def1814a255837d81c6047bfa414bb611bd43523002\",\n        \"s\": \"0x41df4477daba751b870165fcb3358292fe7e03f4c981e2449a46900c3546df77\",\n        \"signature\": \"0x64e321d052a5d3aaeaf70def1814a255837d81c6047bfa414bb611bd4352300241df4477daba751b870165fcb3358292fe7e03f4c981e2449a46900c3546df771b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-5\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb3199b92659e182bf1e0bdc7d2495f606801ba1a9e05387c3190093a3703d6b5\",\n        \"s\": \"0x718968507b8c88765dfbf34e3d69fc61816bacd7d48b74dd86e4723a3cf05e02\",\n        \"signature\": \"0xb3199b92659e182bf1e0bdc7d2495f606801ba1a9e05387c3190093a3703d6b5718968507b8c88765dfbf34e3d69fc61816bacd7d48b74dd86e4723a3cf05e021b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "39442013-2223-48f8-ae76-2521f6c84e72",
+                        "id": "e3ca7479-e135-4111-86b4-3d2c6e971d0d",
                         "savedPayload": {
                             "position": {
-                                "x": 42170.80135082288,
-                                "y": 19984.537170182135
+                                "x": 42163.583992539985,
+                                "y": 19702.746958745614
                             },
                             "targetPosition": {
                                 "x": 42159.583992539985,
@@ -6783,13 +6783,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-6\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1cac82fc16d3bfb1f09d5ebce5e6d9f78ebd9ddcd853292eeb5a2609ada68f63\",\n        \"s\": \"0x2c00931953d42cb9bbc25d83c918e62359103310434f5196804b432f53323f72\",\n        \"signature\": \"0x1cac82fc16d3bfb1f09d5ebce5e6d9f78ebd9ddcd853292eeb5a2609ada68f632c00931953d42cb9bbc25d83c918e62359103310434f5196804b432f53323f721c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-6\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x38243d13be7927274fb56b03af055f6149b3e11bb5c66a87eeccc01fe1ab1845\",\n        \"s\": \"0x3973895835b5177ebb147dcf2b317af362a899b44f487142973bf71fe49f8b2e\",\n        \"signature\": \"0x38243d13be7927274fb56b03af055f6149b3e11bb5c66a87eeccc01fe1ab18453973895835b5177ebb147dcf2b317af362a899b44f487142973bf71fe49f8b2e1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "cfc51da0-c170-474b-97d3-641a694b7b01",
+                        "id": "dcba291f-55bc-449e-afe7-e10fe0a400ca",
                         "savedPayload": {
                             "position": {
-                                "x": 42014.8540738833,
-                                "y": 19969.913494618188
+                                "x": 42113.610354070195,
+                                "y": 19769.43512096364
                             },
                             "targetPosition": {
                                 "x": 42081.610354070195,
@@ -6839,13 +6839,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-7\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x01e0dc3dc015d5b89c3b4571cd3e6f475e72a3412405b7905b3550844bc9691d\",\n        \"s\": \"0x56170c78f9aff2d81ce2b5a53deacb802fe28c572b3ee926676f04de399c6ae4\",\n        \"signature\": \"0x01e0dc3dc015d5b89c3b4571cd3e6f475e72a3412405b7905b3550844bc9691d56170c78f9aff2d81ce2b5a53deacb802fe28c572b3ee926676f04de399c6ae41b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-7\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x4aa6c321a8c7b32932c85f4f8c5dcf58da54e2035d135985877e7e4c65bf6ed4\",\n        \"s\": \"0x1be7e555df8c313d33ff1258a708fda2005cbc0b99dc5d9d971c421f714bec49\",\n        \"signature\": \"0x4aa6c321a8c7b32932c85f4f8c5dcf58da54e2035d135985877e7e4c65bf6ed41be7e555df8c313d33ff1258a708fda2005cbc0b99dc5d9d971c421f714bec491c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "7f7839bf-b226-47d9-a560-d9db758683fc",
+                        "id": "092cf12b-6562-4682-9159-973988511e9d",
                         "savedPayload": {
                             "position": {
-                                "x": 41868.00545729325,
-                                "y": 19915.425983411857
+                                "x": 42003.18604577517,
+                                "y": 19709.191365360475
                             },
                             "targetPosition": {
                                 "x": 42008.18604577517,
@@ -6895,13 +6895,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-8\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc5402c02a2b8163815d6c1b015a5490398c94727a640c977db13b286ecaf027e\",\n        \"s\": \"0x18109982566b3c643b2d30b81e6adb1546d618f6b21911d0b87c1b0e1f699f03\",\n        \"signature\": \"0xc5402c02a2b8163815d6c1b015a5490398c94727a640c977db13b286ecaf027e18109982566b3c643b2d30b81e6adb1546d618f6b21911d0b87c1b0e1f699f031c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-8\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xef2665de96d26cdfc28f53235347c339adc2836ea39944f270afd4448eaf5fad\",\n        \"s\": \"0x30b29de1e074ac976f3709bd1982bff0144560f457942979cc2d5671684cbd55\",\n        \"signature\": \"0xef2665de96d26cdfc28f53235347c339adc2836ea39944f270afd4448eaf5fad30b29de1e074ac976f3709bd1982bff0144560f457942979cc2d5671684cbd551b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5347fa1d-85d6-417f-a467-034310389b0c",
+                        "id": "85d15dc0-29b5-4eec-af92-42c39b992e3b",
                         "savedPayload": {
                             "position": {
-                                "x": 41740.262991594536,
-                                "y": 19824.787870406988
+                                "x": 41898.31481292581,
+                                "y": 19674.87230885804
                             },
                             "targetPosition": {
                                 "x": 41944.31481292581,
@@ -6951,13 +6951,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-9\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xaca8948cdeadf8459224b63c0cd5cc9949d30ad4dab6fd1f1cab1c38161aa2f0\",\n        \"s\": \"0x5a67dec4fd45222a287202dbe42569e55fb53bf7a1c15e6eab70994a708334b8\",\n        \"signature\": \"0xaca8948cdeadf8459224b63c0cd5cc9949d30ad4dab6fd1f1cab1c38161aa2f05a67dec4fd45222a287202dbe42569e55fb53bf7a1c15e6eab70994a708334b81b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-9\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xaeecbfbfc67602fd8d922cc2b54b3f57b1c558b5db2e68f48a6bf3b1fa7b0a3a\",\n        \"s\": \"0x54edf7ae5d97e35ea6c73beaef820695d59eb3170648385d442a107325329481\",\n        \"signature\": \"0xaeecbfbfc67602fd8d922cc2b54b3f57b1c558b5db2e68f48a6bf3b1fa7b0a3a54edf7ae5d97e35ea6c73beaef820695d59eb3170648385d442a1073253294811c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "9c936857-3a5b-43c7-9691-1e67ce48b1b1",
+                        "id": "076ebd35-32cb-45b2-afca-d65e10640df4",
                         "savedPayload": {
                             "position": {
-                                "x": 41640.33211472011,
-                                "y": 19704.175993218298
+                                "x": 41892.3493744886,
+                                "y": 19580.566370263696
                             },
                             "targetPosition": {
                                 "x": 41894.3493744886,
@@ -7007,13 +7007,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-10\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xd42b04f2bcc7d255409c8908e6e49307876f5b9305ea68077e1e45b2439e8467\",\n        \"s\": \"0x2769edcb5ec592354418e023e2c6f6c51855e50c0dc6cb92e5a3231132d12050\",\n        \"signature\": \"0xd42b04f2bcc7d255409c8908e6e49307876f5b9305ea68077e1e45b2439e84672769edcb5ec592354418e023e2c6f6c51855e50c0dc6cb92e5a3231132d120501c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-10\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1fa8d63935e594c8265f05340d7aa51ad85505f9f759ac839c23de59127f0b53\",\n        \"s\": \"0x0a2b6cfdc5f754bd795bcaea47755c69b09f5147e59dfcb9a814e87b305506b5\",\n        \"signature\": \"0x1fa8d63935e594c8265f05340d7aa51ad85505f9f759ac839c23de59127f0b530a2b6cfdc5f754bd795bcaea47755c69b09f5147e59dfcb9a814e87b305506b51c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5399c6f9-b8ba-423a-b983-87bafb6c66a7",
+                        "id": "b663db99-7c83-4abb-a8f8-1a23a6acf242",
                         "savedPayload": {
                             "position": {
-                                "x": 41575.0229507854,
-                                "y": 19561.809851955637
+                                "x": 41764.694792521244,
+                                "y": 19516.383299632365
                             },
                             "targetPosition": {
                                 "x": 41861.694792521244,
@@ -7065,13 +7065,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x16d4f075aad39eb0d9b67d6389c28eaa7e51e1fb289ece64481a048bdbf3f738\",\n        \"s\": \"0x09001a1aa93d729eb88a8527af660ecea616f23634c16ea499efce0988274cac\",\n        \"signature\": \"0x16d4f075aad39eb0d9b67d6389c28eaa7e51e1fb289ece64481a048bdbf3f73809001a1aa93d729eb88a8527af660ecea616f23634c16ea499efce0988274cac1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x70e44a9c7300332fd37c93345768c94343cc86f0fbea517b0f6ceed60a7d2d25\",\n        \"s\": \"0x217e536874026c1f7c1a8866eeed8565624258bcafa1dfc46eecb7fa9b1f289a\",\n        \"signature\": \"0x70e44a9c7300332fd37c93345768c94343cc86f0fbea517b0f6ceed60a7d2d25217e536874026c1f7c1a8866eeed8565624258bcafa1dfc46eecb7fa9b1f289a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "267a1204-10bc-42d1-960f-9a329ada2e27",
+                        "id": "3dd35b1d-9582-4194-a6cf-2e8bf7b432e6",
                         "savedPayload": {
                             "position": {
-                                "x": 41548.786211384046,
-                                "y": 19407.39146387489
+                                "x": 41774.576422820566,
+                                "y": 19432.174105591992
                             },
                             "targetPosition": {
                                 "x": 41848.576422820566,
@@ -7179,13 +7179,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xe4411eaa4430dab6a747c376eb2e1e27696090c9b61a683502e571b2bc545817\",\n        \"s\": \"0x50ed20b90273e702fa0127812489c31c48a1d38b0984e55324f4ac5c9ebe847a\",\n        \"signature\": \"0xe4411eaa4430dab6a747c376eb2e1e27696090c9b61a683502e571b2bc54581750ed20b90273e702fa0127812489c31c48a1d38b0984e55324f4ac5c9ebe847a1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb379720d5d4048c08ce23d21f7d932b6c71d2350cc36fde21c03ecbbd348b8c2\",\n        \"s\": \"0x20d8dd4f125d8603cbe0f4ddf3c43760b304f0f19495b7e20c45bf91f498baaf\",\n        \"signature\": \"0xb379720d5d4048c08ce23d21f7d932b6c71d2350cc36fde21c03ecbbd348b8c220d8dd4f125d8603cbe0f4ddf3c43760b304f0f19495b7e20c45bf91f498baaf1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "7b8ec286-b92a-4227-8801-697a9d774c45",
+                        "id": "3697da51-619c-49a8-860f-fb7c0357a9b3",
                         "savedPayload": {
                             "position": {
-                                "x": 43015.44063498686,
-                                "y": 19629.782042995615
+                                "x": 42884.27551325159,
+                                "y": 19428.49138262489
                             },
                             "targetPosition": {
                                 "x": 42885.27551325159,
@@ -7264,13 +7264,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xa6f937833d8683b1e51bbef503b05fe4dec6cd1ff7c2243c3862443e8253d712\",\n        \"s\": \"0x185c625fb96002e8477d62a263319e09ca5dfa7152f1107bfe65244f4e7b557a\",\n        \"signature\": \"0xa6f937833d8683b1e51bbef503b05fe4dec6cd1ff7c2243c3862443e8253d712185c625fb96002e8477d62a263319e09ca5dfa7152f1107bfe65244f4e7b557a1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x979cb5069938f63bafe9fcafe91445c9a676c8ce16bc822cf51ba04d475eafe4\",\n        \"s\": \"0x70f4ff99e940cfffec08a9306437823929425c1084a7f5c2685886ec19592638\",\n        \"signature\": \"0x979cb5069938f63bafe9fcafe91445c9a676c8ce16bc822cf51ba04d475eafe470f4ff99e940cfffec08a9306437823929425c1084a7f5c2685886ec195926381b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5f3e331f-730f-4163-9365-233157469017",
+                        "id": "399ea115-a7cf-4f01-8f31-0b447469787b",
                         "savedPayload": {
                             "position": {
-                                "x": 42716.2794958325,
-                                "y": 19607.363014919687
+                                "x": 42792.69852390843,
+                                "y": 19261.20187576533
                             },
                             "targetPosition": {
                                 "x": 42738.69852390843,
@@ -7349,13 +7349,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x2d78b029bf0dfa7e5e6452029b755faa0a71d5560cef170233283b31c636d1ca\",\n        \"s\": \"0x5c8cf46566170168c9651ee89235243ade5102e8a4e9fc95da57edabc16c8b4d\",\n        \"signature\": \"0x2d78b029bf0dfa7e5e6452029b755faa0a71d5560cef170233283b31c636d1ca5c8cf46566170168c9651ee89235243ade5102e8a4e9fc95da57edabc16c8b4d1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xef91396f2e7fb89763122f39155dddaed43ef16252568f1a20734eaa48513289\",\n        \"s\": \"0x62ba921e315d4330fb10ad90655cf27bdbac1c23ad72cd942db83646dff418b1\",\n        \"signature\": \"0xef91396f2e7fb89763122f39155dddaed43ef16252568f1a20734eaa4851328962ba921e315d4330fb10ad90655cf27bdbac1c23ad72cd942db83646dff418b11c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "06962728-7ba2-42b4-9143-f9dd5b5b49cc",
+                        "id": "9960274e-daa3-4659-9099-85dc7aad821e",
                         "savedPayload": {
                             "position": {
-                                "x": 42538.32016237024,
-                                "y": 19473.66036429831
+                                "x": 42613.403880956794,
+                                "y": 19094.4953652058
                             },
                             "targetPosition": {
                                 "x": 42637.403880956794,
@@ -8675,13 +8675,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-4\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x51bacf4222bc0e9bc88b47fc7238337817dc81cc3f62a60bd8d7916bacbf51e7\",\n        \"s\": \"0x23be4f8b74cac5582746db500829470f0c35b63fc47bb14db494e0d7ece1bef5\",\n        \"signature\": \"0x51bacf4222bc0e9bc88b47fc7238337817dc81cc3f62a60bd8d7916bacbf51e723be4f8b74cac5582746db500829470f0c35b63fc47bb14db494e0d7ece1bef51c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-4\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x5c8c646690cdc366f0e11b7fbd0e36c837c985158a4e85d515fec92b259665cc\",\n        \"s\": \"0x2dd9d70f18d1ab8e7992f64b457b9ee01345abc97897066edfa3ac8f6e32df9d\",\n        \"signature\": \"0x5c8c646690cdc366f0e11b7fbd0e36c837c985158a4e85d515fec92b259665cc2dd9d70f18d1ab8e7992f64b457b9ee01345abc97897066edfa3ac8f6e32df9d1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "6bbc22e0-2e4a-4742-9cea-7ffc57d42920",
+                        "id": "cad80fe3-29e1-4be0-bd72-36cacebd1285",
                         "savedPayload": {
                             "position": {
-                                "x": 42381.141885229525,
-                                "y": 19233.59743877804
+                                "x": 42543.53340217316,
+                                "y": 19044.911215394604
                             },
                             "targetPosition": {
                                 "x": 42608.53340217316,
@@ -10001,13 +10001,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-5\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x583e7fd5d02bd954e617f741cec31c086e2d73984a8c8f38c0d077538dfb4c36\",\n        \"s\": \"0x630c36399e4f34aeddb0d638a358355b8f98d14410492c84529614ceaeb1d23d\",\n        \"signature\": \"0x583e7fd5d02bd954e617f741cec31c086e2d73984a8c8f38c0d077538dfb4c36630c36399e4f34aeddb0d638a358355b8f98d14410492c84529614ceaeb1d23d1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-5\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x2764fd5a99f682e3063eeac6fde40091701be284f4bda6155ca81dcd189abba2\",\n        \"s\": \"0x2b0b8e520283235fb6512ffc19d57e9dffc0bc0141d582c29ecdbad300a97be9\",\n        \"signature\": \"0x2764fd5a99f682e3063eeac6fde40091701be284f4bda6155ca81dcd189abba22b0b8e520283235fb6512ffc19d57e9dffc0bc0141d582c29ecdbad300a97be91c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5857008b-dc64-4bcd-9f04-e94efb1f461b",
+                        "id": "9bc1ff51-eab8-4559-9d61-1438f426ab84",
                         "savedPayload": {
                             "position": {
-                                "x": 42365.05296706273,
-                                "y": 18947.10770820032
+                                "x": 42604.822909032715,
+                                "y": 18880.334226051447
                             },
                             "targetPosition": {
                                 "x": 42659.822909032715,
@@ -10484,13 +10484,13 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb5cdd9a75582b174dc1192bf675d78c66251a20daaa44b11b19f6d175962b43c\",\n        \"s\": \"0x653559ac356e750931e88fb8173b5d0c411b983735f337b61329adeb7a8ea695\",\n        \"signature\": \"0xb5cdd9a75582b174dc1192bf675d78c66251a20daaa44b11b19f6d175962b43c653559ac356e750931e88fb8173b5d0c411b983735f337b61329adeb7a8ea6951b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"BlaaSwe\",\n        \"messageHash\": \"0x7f8ab5cefa1b5b879269f9bb360844ddcec53564a80da7d42231bf35bb28ff33\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x016c0d296a445afb95b76458fdd7c3e35344ec2d3c191dcec5057b2c8c959e05\",\n        \"s\": \"0x61b54b71709598e18cd480a115aebed81796b2a21ac51999832d29a4ddf49ff3\",\n        \"signature\": \"0x016c0d296a445afb95b76458fdd7c3e35344ec2d3c191dcec5057b2c8c959e0561b54b71709598e18cd480a115aebed81796b2a21ac51999832d29a4ddf49ff31b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "7e6db3cb-e7fc-4c72-bfda-784f4ddea105",
+                    "id": "e9c574b2-dda6-445f-8cfb-08f7a438e4ca",
                     "savedPayload": {
                         "position": {
-                            "x": 42643.515881770494,
-                            "y": 18681.830355271366
+                            "x": 42978.69454132752,
+                            "y": 18563.669756529467
                         },
                         "targetPosition": {
                             "x": 42907.69454132752,
@@ -10511,7 +10511,7 @@
                 },
                 "p2pNetworkReference": {
                     "type": "P2P Network Reference",
-                    "name": "",
+                    "name": "Mainnet",
                     "project": "Network",
                     "id": "b7a62ed6-7d4b-4ceb-9a2f-42ce322341f1",
                     "savedPayload": {
@@ -10822,7 +10822,7 @@
                             },
                             {
                                 "type": "Permission Granted",
-                                "name": "9808us",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Network",
                                 "id": "5f9781e5-5296-478b-a92d-cfbdc17c8121",
@@ -10861,7 +10861,7 @@
                             },
                             {
                                 "type": "Permission Granted",
-                                "name": "tigers40",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Network",
                                 "id": "20d6c0a6-81e9-49c2-8aa3-a493d8af8394",
@@ -10900,7 +10900,7 @@
                             },
                             {
                                 "type": "Permission Granted",
-                                "name": "prepheadrus",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Network",
                                 "id": "2300cbe6-e4df-4551-89fc-23a417b97acc",
